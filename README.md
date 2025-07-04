@@ -22,9 +22,7 @@ Pydantic
 Uvicorn (for running the server)
 
 📦 Installation
-bash
-Copy
-Edit
+
 # Clone this repository
 git clone https://github.com/your-username/fastapi-crud-example.git
 cd fastapi-crud-example
@@ -36,9 +34,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 # Install dependencies
 pip install fastapi uvicorn
 🚀 Running the App
-bash
-Copy
-Edit
+
 uvicorn main:app --reload
 📌 main is the filename (main.py) and app is the FastAPI instance.
 
@@ -52,8 +48,7 @@ DELETE	/nums/{num_id}	Delete item by ID
 
 🧪 Sample JSON Format
 json
-Copy
-Edit
+
 {
   "id": 1,
   "name": "Sample Name",
