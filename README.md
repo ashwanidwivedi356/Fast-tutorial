@@ -24,8 +24,8 @@ Uvicorn (for running the server)
 📦 Installation
 
 # Clone this repository
-git clone https://github.com/your-username/fastapi-crud-example.git
-cd fastapi-crud-example
+git clone [https://github.com/ashwanidwivedi356/Fast-tutorial]
+cd Fast-tutorial
 
 # Create virtual environment (optional)
 python -m venv venv
